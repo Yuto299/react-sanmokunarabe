@@ -1,4 +1,12 @@
-/* .square {
+.square {
   width: 60px;
   height: 60px;
-} */
+  background-color: #fff;
+  border: 1px solid #999;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
